@@ -20,7 +20,8 @@ const Button = ({id, mode, setting, buttonClick, toggleFlag}) => {
     return tempClassName
   }, [mode, setting.state, setting.mark])
 
-  const buttonRef = useRef()
+  //Making a ref to buttonRef
+  const buttonRef = useRef() 
 
   useEffect(() => {
     if(setting.isPressed) {
