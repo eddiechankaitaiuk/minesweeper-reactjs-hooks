@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/minesweeper-reactjs-hooks/static/css/main.0369e9b7.css",
+    "main.js": "/minesweeper-reactjs-hooks/static/js/main.626b9b9c.js",
+    "static/js/787.fade2e9e.chunk.js": "/minesweeper-reactjs-hooks/static/js/787.fade2e9e.chunk.js",
+    "static/media/mine.svg": "/minesweeper-reactjs-hooks/static/media/mine.248128544d46bbb0372a.svg",
+    "static/media/mine_red.svg": "/minesweeper-reactjs-hooks/static/media/mine_red.f7e40740f79f91bf002c.svg",
+    "static/media/type8.svg": "/minesweeper-reactjs-hooks/static/media/type8.d8af11a0a553bfe2d960.svg",
+    "static/media/flag.svg": "/minesweeper-reactjs-hooks/static/media/flag.4b1e382d03bad47ced93.svg",
+    "static/media/mine_wrong.svg": "/minesweeper-reactjs-hooks/static/media/mine_wrong.e388c6ce71559674e684.svg",
+    "static/media/type3.svg": "/minesweeper-reactjs-hooks/static/media/type3.834f4781adae06d2216b.svg",
+    "static/media/type2.svg": "/minesweeper-reactjs-hooks/static/media/type2.e2713a8e95ef45b8dbd8.svg",
+    "static/media/type6.svg": "/minesweeper-reactjs-hooks/static/media/type6.d6b648733ffa580268fc.svg",
+    "static/media/type5.svg": "/minesweeper-reactjs-hooks/static/media/type5.07e0ff6bf140fa00c341.svg",
+    "static/media/type4.svg": "/minesweeper-reactjs-hooks/static/media/type4.b3da1f3a2ea4ae2bbec4.svg",
+    "static/media/type7.svg": "/minesweeper-reactjs-hooks/static/media/type7.0297b80998d604fc34bb.svg",
+    "static/media/type1.svg": "/minesweeper-reactjs-hooks/static/media/type1.b9cae383e94795aaa11c.svg",
+    "static/media/closed.svg": "/minesweeper-reactjs-hooks/static/media/closed.184e834021cdfaee6a82.svg",
+    "static/media/pressed.svg": "/minesweeper-reactjs-hooks/static/media/pressed.72b7fefbc463212e84a0.svg",
+    "static/media/type0.svg": "/minesweeper-reactjs-hooks/static/media/type0.72b7fefbc463212e84a0.svg",
+    "index.html": "/minesweeper-reactjs-hooks/index.html",
+    "main.0369e9b7.css.map": "/minesweeper-reactjs-hooks/static/css/main.0369e9b7.css.map",
+    "main.626b9b9c.js.map": "/minesweeper-reactjs-hooks/static/js/main.626b9b9c.js.map",
+    "787.fade2e9e.chunk.js.map": "/minesweeper-reactjs-hooks/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0369e9b7.css",
+    "static/js/main.626b9b9c.js"
+  ]
+}
